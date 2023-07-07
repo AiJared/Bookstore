@@ -1,1 +1,4 @@
-Hello from Django Bookstore!
+{% load i18n %}
+{% autoescape off %}
+{% blocktrans %}Hello from Django Bookstore!{% endblocktrans %}
+{% endautoescape %}

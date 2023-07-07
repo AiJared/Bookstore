@@ -8,4 +8,4 @@ You are receiving this e-mail because user {{ user_display }} has given your\
 e-mail address to register an account on {{ site_domain }}.
 
 To confirm this is correct, go to {{ active_url }}\
-{% endblocktrans %}{% endautoescape %}{% endblock %}
+{% endblocktrans %}{% endautoescape %}{% endblock %}      
